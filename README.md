@@ -1,13 +1,13 @@
 <!-- Header -->
 
-![Transparent](https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=Hello.&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=50&fontColor=000000)
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi,%20there!&height=150&fontSize=60&fontAlign=15&desc=I'm%20Seongwook.&descAlignY=75&descAlign=8.6)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbseongwook%2Fhit-counter&count_bg=%23000000&title_bg=%23757575&icon=bilibili.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-#### 🙇 I'm interested in Backend, Machine Learning. And I'm studying Data engineering now.
+#### 🙇 In the meantime, I've studied machine learning, <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and now I'm interested in Backend and Data engineering to make good use of the AI model.
 
 <!-- Body -->
-
 <br>
 
 ## 🦾 Skills
@@ -17,7 +17,7 @@
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
-![spring](https://img.shields.io/badge/spring-ffffff.svg?&style=for-the-badge&logo=spring&logoColor=black)
+![springboot](https://img.shields.io/badge/springboot-ffffff.svg?&style=for-the-badge&logo=springboot&logoColor=black)
 ![mysql](https://img.shields.io/badge/mysql-ffffff.svg?&style=for-the-badge&logo=mysql&logoColor=black)
 ![python](https://img.shields.io/badge/python-ffffff.svg?&style=for-the-badge&logo=python&logoColor=black)
 ![django](https://img.shields.io/badge/flask-ffffff.svg?&style=for-the-badge&logo=django&logoColor=black)<br>
