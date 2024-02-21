@@ -39,8 +39,8 @@
 <br>
 
 ## 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bseongwook&layout=compact)
-[![bseongwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=bseongwook)](https://github.com/bseongwook/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bseongwook&layout=compact&width=300&height=200)
+[![bseongwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=bseongwook&width=300&height=200)](https://github.com/bseongwook/github-readme-stats)
 
 
 
