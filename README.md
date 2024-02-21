@@ -1,11 +1,11 @@
 <!-- Header -->
 
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi,%20there!&height=150&fontSize=60&fontAlign=15&desc=I'm%20Seongwook.&descAlignY=75&descAlign=8.6)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi,%20there!&height=150&fontSize=60&fontAlign=15&desc=I'm%20Seongwook%20Baek.&descAlignY=75&descAlign=11.5)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbseongwook%2Fhit-counter&count_bg=%23000000&title_bg=%23757575&icon=bilibili.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-#### 🙇 In the meantime, I've studied machine learning, <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and now I'm interested in Backend and Data engineering to make good use of the AI model.
+#### 🙇 In the meantime, I've studied Machine Learning, <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and now I'm interested in Backend and Data engineering to make good use of the AI model.
 
 <!-- Body -->
 <br>
