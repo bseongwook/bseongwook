@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Transparent](https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=BaekSeongwook.&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=50&fontColor=000000)
+![Transparent](https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=Baek Seongwook&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=50&fontColor=000000)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbseongwook%2Fhit-counter&count_bg=%23000000&title_bg=%23757575&icon=bilibili.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
