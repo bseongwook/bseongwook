@@ -21,6 +21,14 @@
 ![html5](https://img.shields.io/badge/html5-ffffff.svg?&style=for-the-badge&logo=html5&logoColor=black)
 ![css3](https://img.shields.io/badge/css3-ffffff.svg?&style=for-the-badge&logo=css3&logoColor=black)
 ![javascript](https://img.shields.io/badge/javascript-ffffff.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![pytorch](https://img.shields.io/badge/pytorch-ffffff.svg?&style=for-the-badge&logo=pytorch&logoColor=black)
+![numpy](https://img.shields.io/badge/numpy-ffffff.svg?&style=for-the-badge&logo=numpy&logoColor=black)<br>
+![pandas](https://img.shields.io/badge/pandas-ffffff.svg?&style=for-the-badge&logo=pandas&logoColor=black)
+![elasticsearch](https://img.shields.io/badge/elasticsearch-ffffff.svg?&style=for-the-badge&logo=elasticsearch&logoColor=black)
+![streamlit](https://img.shields.io/badge/streamlit-ffffff.svg?&style=for-the-badge&logo=streamlit&logoColor=black)
+![apacheairflow](https://img.shields.io/badge/apacheairflow-ffffff.svg?&style=for-the-badge&logo=apacheairflow&logoColor=black)
+
+
 
 <br>
 
@@ -34,7 +42,8 @@
 ![vscode](https://img.shields.io/badge/vscode-ffffff.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![eclipse](https://img.shields.io/badge/eclipse-ffffff.svg?&style=for-the-badge&logo=eclipseide&logoColor=black)
 ![slack](https://img.shields.io/badge/slack-ffffff.svg?&style=for-the-badge&logo=slack&logoColor=black)
-![notion](https://img.shields.io/badge/notion-ffffff.svg?&style=for-the-badge&logo=notion&logoColor=black)
+![notion](https://img.shields.io/badge/notion-ffffff.svg?&style=for-the-badge&logo=notion&logoColor=black)<br>
+![jenkins](https://img.shields.io/badge/jenkins-ffffff.svg?&style=for-the-badge&logo=jenkins&logoColor=black)
 
 <br>
 
