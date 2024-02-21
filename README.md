@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbseongwook%2Fhit-counter&count_bg=%23000000&title_bg=%23757575&icon=bilibili.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-### 🙇 I'm interested in Backend, Machine Learning. I'm studying AI engineering.
+### 🙇 I'm interested in Backend, Machine Learning. And I'm studying Data engineering now.
 
 <!-- Body -->
 
@@ -12,6 +12,7 @@
 
 ## 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
+<br>
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-ffffff.svg?&style=for-the-badge&logo=spring&logoColor=black)
@@ -28,11 +29,10 @@
 ![streamlit](https://img.shields.io/badge/streamlit-ffffff.svg?&style=for-the-badge&logo=streamlit&logoColor=black)
 ![apacheairflow](https://img.shields.io/badge/apacheairflow-ffffff.svg?&style=for-the-badge&logo=apacheairflow&logoColor=black)
 
-
-
 <br>
 
 **🛠️ Infra and Tools**
+<br>
 
 ![linux](https://img.shields.io/badge/linux-ffffff.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/git-ffffff.svg?&style=for-the-badge&logo=git&logoColor=black)
@@ -42,8 +42,9 @@
 ![vscode](https://img.shields.io/badge/vscode-ffffff.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![eclipse](https://img.shields.io/badge/eclipse-ffffff.svg?&style=for-the-badge&logo=eclipseide&logoColor=black)
 ![slack](https://img.shields.io/badge/slack-ffffff.svg?&style=for-the-badge&logo=slack&logoColor=black)
-![notion](https://img.shields.io/badge/notion-ffffff.svg?&style=for-the-badge&logo=notion&logoColor=black)<br>
-![jenkins](https://img.shields.io/badge/jenkins-ffffff.svg?&style=for-the-badge&logo=jenkins&logoColor=black)
+![notion](https://img.shields.io/badge/notion-ffffff.svg?&style=for-the-badge&logo=notion&logoColor=black)
+![jenkins](https://img.shields.io/badge/jenkins-ffffff.svg?&style=for-the-badge&logo=jenkins&logoColor=black)<br>
+![docker](https://img.shields.io/badge/docker-ffffff.svg?&style=for-the-badge&logo=docker&logoColor=black)
 
 <br>
 
